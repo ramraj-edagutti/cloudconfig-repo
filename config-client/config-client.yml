@@ -1,6 +1,6 @@
-datosservidor.minimum=11
-datosservidor.maximum=20
-limites.minimum=-1
-limites.maximum=2
+dataserver.minimum=11
+dataserver.maximum=20
+limits.minimum=1
+limits.maximum=2
 values.fixed_value: FixedValue
-#values.fucntion_value: "FunctionValue"
+values.fucntion_value: FunctionValue
