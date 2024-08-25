@@ -1,2 +1,2 @@
 app:
-  welcomeMsgQA: ${app.welcomeMsgQA:Hello from config server application QA}
+  welcomeMsg: ${app.welcomeMsg:Hello from config server application QA}
