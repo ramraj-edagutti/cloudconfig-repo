@@ -1,0 +1,5 @@
+datosservidor.minimum=1000
+datosservidor.maximum=2000
+limites.minimum=10
+values.fixed_value: FixedValueProd
+values.fucntion_value: "FunctionValueProd"
