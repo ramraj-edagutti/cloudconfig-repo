@@ -1,0 +1,5 @@
+dataserver.minimum=1000000
+dataserver.maximum=2000000
+limits.minimum=10000
+values.fixed_value=FixedValueProd000
+values.fucntion_value=FunctionValueProd0000
