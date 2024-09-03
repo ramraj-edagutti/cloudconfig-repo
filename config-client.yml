@@ -2,5 +2,5 @@ dataserver.minimum=1100
 dataserver.maximum=2000
 limits.minimum=100
 limits.maximum=200
-values.fixed_value: FixedValue00
-values.fucntion_value: FunctionValue00
+values.fixed_value: "FixedValue00"
+values.fucntion_value: "FunctionValue00"
