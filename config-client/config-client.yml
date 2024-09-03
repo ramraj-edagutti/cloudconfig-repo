@@ -1,6 +1,0 @@
-dataserver.minimum=11
-dataserver.maximum=20
-limits.minimum=1
-limits.maximum=2
-values.fixed_value: FixedValue
-values.fucntion_value: FunctionValue
